@@ -1,1 +1,104 @@
+body{
+    background-color:#323232;
+    margin:0px;
+    color:white;
+}
+a{
+    text-decoration:none;
+}
+a:visited{
+    color:white;
+}
+#container{
+    margin:1% auto 1% auto;
+    width:75%;
+    height:85%;
+}
+#header{
+    padding:1%;
+    width:98%;
+    height:72px;
+    background-color:#424242;
+    margin-bottom:1%;
+}
+#header:hover{
+    transition:2s;
+    border-radius:10px;
+}
+#jeden{
+    float:left;
+    padding:1%;
+    width:22.25%;
+    height:192px;
+    background-color:#501111;
+    margin-right:1%;
+    margin-bottom:1%;
+}
+#jeden:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#dwa{
+    float:left;
+    padding:1%;
+    width:22.25%;
+    height:192px;
+    background-color:#501111;
+    margin-right:1%;
+}
+#dwa:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#trzy{
+    float:left;
+    padding:1%;
+    width:22.25%;
+    height:192px;
+    background-color:#501111;
+    margin-right:1%;
+}
+#trzy:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#cztery{
+    float:left;
+    padding:1%;
+    width:22.25%;
+    height:192px;
+    background-color:#501111;
+}
+#cztery:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#piec{
+    clear:left;
+    padding:1%;
+    width:98%;
+    height:192px;
+    background-color:#501111;
+    margin-bottom:1%;
+}
+#piec:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#dol{
+    padding:1%;
+    width:98%;
+    height:120px;
+    background-color:#424242;
+}
+#dol:hover{
+    transition:2s;
+    border-radius:5px;
+}
+#test{
+    padding:1%;
+    width:98%;
+    height:574px;
+    background-color:black;
+}
 
